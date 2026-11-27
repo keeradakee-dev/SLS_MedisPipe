@@ -4,7 +4,7 @@
 
 20-minute video presentation: 
 
-Brief written summary: 
+Brief written summary: https://drive.google.com/drive/u/0/home 
 
 # Project Overview
 
