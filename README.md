@@ -1,12 +1,12 @@
-Single-Leg Squat Analysis Using MediaPipe and Dynamic Time Warping
 
-Project Demonstration
+## Single-Leg Squat Analysis Using MediaPipe and Dynamic Time Warping
+
 
 20-minute video presentation: 
 
 Brief written summary: 
 
-Project Overview
+# Project Overview
 
 The main goal of this project is to develop a simple AI-based program that can analyze knee movement during a single-leg squat.
 
@@ -27,7 +27,7 @@ Matplotlib for creating graphs
 Dynamic Time Warping (DTW) for comparing movement patterns
 
 
-Methodology
+# Methodology
 
 Install the required Python libraries and download the pretrained MediaPipe model
 
